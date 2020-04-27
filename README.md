@@ -1,9 +1,9 @@
 # CY
 Contact Tracing - Cyprus
 
-**COVTRACER** developed by RISE joint venture. At the present time it's only a location tracker.
+**COVTRACER** developed by RISE joint venture & it's based on MIT PrivateKit:SafePaths solution. At the present time it's not using Bluetooth to check crossed paths / proximity, but only location tracing.
 
-Since Coronavirus lockdown has been extended in Cyprus until April 30, such app has been released for those people, whose movements are not currently limited (doctors, nurses, police officers, fire fighters, security forces, people working in important utilities).
+Indeed, since Coronavirus lockdown has been extended in Cyprus until April 30, such app has been released for those people, whose movements are not currently limited (doctors, nurses, police officers, fire fighters, security forces, people working in important utilities).
 
 The app logs device’s location (GPS+Wi-Fi) every five minutes. Besides, it can import previous location trails through Google Takeout service.
 
