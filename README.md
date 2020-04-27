@@ -7,7 +7,7 @@ Since Coronavirus lockdown has been extended in Cyprus until April 30, such app 
 
 The app logs device’s location (GPS+Wi-Fi) every five minutes. Besides, it can import previous location trails through Google Takeout service.
 
-The location log could be exported only by sharing it to a trusted contact (such as a health officer or doctor). 
+The location log could be exported only by sharing it to a trusted contact (such as a health official). 
 
 Play Store | https://play.google.com/store/apps/details?id=edu.rise.ihnilatis
 -----------|-----------------------------------------------------------------
