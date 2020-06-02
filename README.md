@@ -18,10 +18,12 @@ Website | https://covid-19.rise.org.cy/en
 
 Build | Link
 ------|-----
+2.0.1 #34 | https://apklab.io/apk.html?hash=bee53b7a4514cb196e8aea284a00400de3b0141f347293eac6ef0824ecce8e0f
 1.0.1 #13 | https://apklab.io/apk.html?hash=2a13b864c84f684f6007dd2f11e96068a2a6ab8d829c332ac7f0d3669681cc2d
 
 - JoeSandbox Report
 
 Build | Link
 ------|-----
+2.0.1 #34 | https://www.joesandbox.com/analysis/234832/0/html
 1.0.1 #13 | https://www.joesandbox.com/analysis/225339/0/html
