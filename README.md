@@ -42,6 +42,8 @@ Build | Link
 1.3.2 #43 | https://apklab.io/apk.html?hash=b85cd4548caa236c37b47dcfabdef35635d913911ddbefa837b3f7b4a2c9470d
 
 - JoeSandbox Report
+
+Build | Link
 ------|-----
 1.3.2 #43 | https://www.joesandbox.com/analysis/346889/0/html
 
